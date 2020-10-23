@@ -28,6 +28,9 @@ html,
 body {
   height: 100%;
   background-image: url('../images/cookies.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: local;
 }
 
 body {
